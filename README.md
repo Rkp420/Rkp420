@@ -1,103 +1,82 @@
-<!-- Banner or GIF (optional, uncomment to use) -->
-<!-- ![Header image or cool GIF](https://i.imgur.com/your-custom-banner.gif) -->
-
-<h1 align="center">Hey 👋, I'm Rahul Kumar Patel</h1>
+<!-- Profile Header -->
 <p align="center">
-  <a href="mailto:rahulkumarpatelj5@gmail.com"><img src="https://img.shields.io/badge/Email-rahulkumarpatelj5@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/rahul-kumar-patel-31353622a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Rkp420"><img src="https://img.shields.io/badge/GitHub-Rkp420-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Rahul+Kumar+Patel;Full-Stack+Developer+%7C+Real-Time+App+Builder;Clean+Code+%7C+Scalable+Solutions+%7C+Modern+UIs" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+App+Developer;Real-Time+%7C+Scalable+App+Specialist;Clean+Code+%7C+Modern+UIs;Open+Source+Enthusiast" alt="Typing SVG" />
+  <a href="mailto:rahulkumarpatelj5@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rahul-kumar-patel-31353622a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Rkp420"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 **B.Tech Computer Science**, Biju Patnayak University (Grad. 2026)
-- 🛠️ Full-Stack Developer | Real-time & scalable solutions
-- 💡 Passionate about building seamless experiences & solving complex problems
-- 🏆 3rd place in college-wide coding competition
+🎓 **B.Tech in Computer Science** — Biju Patnaik University of Technology (2026)  
+🔧 Passionate Full-Stack Developer focused on **scalable**, **real-time web apps**  
+💡 I love turning complex problems into elegant and performant solutions  
+🏆 Secured **3rd place** in college-wide coding competition (vs. seniors and peers)
 
 ---
 
-## 🧰 Tech Stack
+## 💼 Projects
+
+### 🚀 PulseTalk — Realtime Chat & Video Platform  
+> MERN Stack • WebRTC • Socket.io • JWT • Cloudinary  
+- Seamless messaging and **video/audio calls** with secure JWT authentication  
+- Built group chat management with roles, profile cropping, emojis  
+- Real-time features with **Socket.io** and **custom event handling**
+
+### 📺 LiveWave — Live Streaming Platform (Twitch Clone)  
+> Next.js • Tailwind • Prisma • MySQL • OBS/RTMP/WHIP  
+- Users can **broadcast & interact** with audiences  
+- Integrated **OBS/WebRTC** streaming, RTMP/WHIP tunnel support  
+- Configured auth, DB sync, and webhooks for real-time updates
+
+### 🐦 Quikks — Twitter-inspired Social App  
+> GraphQL • Redis • AWS • Node.js • TypeScript  
+- Built scalable backend with GraphQL & Redis  
+- Real-time notifications, tweet threads, likes, and retweets  
+- **Deployed on AWS** for cloud-based scalability
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,js,ts,cpp,java,tailwind,html,css,aws,graphql,redis" alt="Tech Stack" /><br>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Proficient-informational?style=flat&logo=codewars&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,cpp,java,mongodb,postgres,mysql,graphql,tailwind,aws,redis,html,css" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td><b>PulseTalk</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Stack-MERN%20%7C%20WebRTC%20%7C%20Socket.io-blue?logo=javascript&logoColor=white">
-      <br>
-      <ul>
-        <li>Realtime chat & video calls, group management</li>
-        <li>JWT auth, secure uploads, profile cropping</li>
-        <li>Modern UI, emoji & media support</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><b>LiveWave</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Tailwind%20%7C%20Prisma%20%7C%20MySQL-blue?logo=next.js&logoColor=white">
-      <br>
-      <ul>
-        <li>Twitch-like live streaming platform</li>
-        <li>Real-time audience interaction</li>
-        <li>OBS, RTMP/WHIP integration</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Quikks</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20GraphQL%20%7C%20AWS%20%7C%20Redis-blue?logo=node.js&logoColor=white">
-      <br>
-      <ul>
-        <li>Twitter-inspired social platform</li>
-        <li>Scalable, with real-time notifications</li>
-        <li>Deployed on AWS Cloud</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+🧠 **DSA Proficiency:** Java, C++  
+🧰 **Tools & Concepts:** REST APIs, WebSockets, JWT, WebRTC, Git, Prisma, Multer, Sharp
 
 ---
 
-## 📝 Academic
+## 🎓 Education
 
-- **CGPA:** 8.5 / 10
-- **College:** Biju Patnayak University, Rourkela, Orissa
-- **Graduation:** May 2026
+**Biju Patnaik University of Technology**  
+📍 Rourkela, Odisha  
+📚 **B.Tech in Computer Science** | CGPA: 8.5 | 🎓 Expected: May 2026  
 
 ---
 
-## 🌐 Connect With Me
+## 🗣 Let's Connect!
 
 <p align="center">
   <a href="mailto:rahulkumarpatelj5@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rahul-kumar-patel-31353622a"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Rkp420"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a>
+  <a href="tel:+917480800131"><img src="https://img.shields.io/badge/Call%20Me-%2B91%207480800131-success?logo=whatsapp&logoColor=white"></a>
 </p>
 
 ---
 
 <details>
-  <summary>✨ Fun Fact</summary>
-  <p>I'm always up for a new coding challenge and love building things that make life easier!</p>
+<summary>🌟 Fun Fact</summary>
+I never back down from a coding challenge—especially when real-time performance or UI polish is on the line!
 </details>
 
 <!--
-⭐️ Inspired by modern developer portfolio READMEs. Feel free to reach out for collaboration or freelance opportunities!
+📢 I'm open to full-time opportunities | internships | collaborations | open-source
 -->

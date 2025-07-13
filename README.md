@@ -1,7 +1,5 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Rahul+Kumar+Patel;Full-Stack+Developer+%7C+Real-Time+App+Builder;Clean+Code+%7C+Scalable+Solutions+%7C+Modern+UIs" alt="Typing SVG" />
-</p>
+<h3 align="center">Hi 👋 I'm Rahul Kumar Patel — Full-Stack Developer | Real-Time App Builder</h3>
 
 <p align="center">
   <a href="mailto:rahulkumarpatelj5@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
